@@ -1,11 +1,3 @@
-<h2>We the people of SAIKO-STASH, in order to form a more perfect Union, establish Justice, insure free time Tranquility, provide for the sanity defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this repository of SAIKO-STASH. ✨</h2>
-<br>
-<p align="center">
-<img width="633" height="349" alt="Logo Banner" src="https://github.com/user-attachments/assets/e1d785e2-e3a1-4c86-9eae-27444fec418d"/>
-<br/>
-
----
-
 <h1>Step 1 - Prerequisites</h1>
 
 ### If you are using this project on an unmanaged personal device, you can skip these steps and just use the latest JSDL version. 🏠
